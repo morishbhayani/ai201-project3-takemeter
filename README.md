@@ -1,5 +1,10 @@
 # TakeMeter: Reddit Career Comment Classifier
 
+
+
+**Demo Video:** https://www.loom.com/share/4f235796233f4bb9b709f1e1ebafd452
+
+
 ## Project Overview
 
 TakeMeter is a text classification project that labels Reddit comments from data science and career advice discussions. The goal is to classify each comment based on what kind of information it provides to a reader.
